@@ -23,6 +23,6 @@ If you have any questions or suggestions, do not hesitate to let us know on the 
 ### How to report issues
 If you want to report a bug you have found, we ask you to go to the [Adobly server](https://adobly.github.io/discord), and in the help and doubts channel write your problem, we will be happy to answer you.
 
-### Document language
+### Lenguaje del Documento
 
-¿No hablas inglés? No te preocupes, aquí te dejo el documento traducido al español en su todalidad:
+¿No hablas inglés? No te preocupes, aquí te dejo el documento traducido al español en su todalidad: [Click aquí](https://github.com/workspaceproj/.github/blob/main/profile/README-ES.md)https://github.com/workspaceproj/.github/blob/main/profile/README-ES.md
