@@ -25,4 +25,4 @@ If you want to report a bug you have found, we ask you to go to the [Adobly serv
 
 ### Lenguaje del Documento
 
-¿No hablas inglés? No te preocupes, está el documento traducido al español en su todalidad: [Click aquí](https://github.com/workspaceproj/.github/blob/main/profile/README-ES.md).
+¿No hablas inglés? No te preocupes, está el documento traducido al español en su todalidad: [Click aquí.](https://github.com/workspaceproj/.github/blob/main/profile/README-ES.md)
