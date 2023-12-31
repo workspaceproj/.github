@@ -20,6 +20,16 @@ Es decir, si hay un proyecto con las versiones: **Pre-release 1.0.2.35**, **Rele
 
 Si tienes alguna pregunta o sugerencia, no dudes en hacérnoslo saber en el servidor oficial [Adobly](https://adobly.github.io/discord).
 
+### Contribuir a los proyectos
+Si deseas ayudar o aportar algo a los proyectos, te recomiendo que hagas los siguientes pasos:
+  1. Leer las reglas de contribuición de cada repositorio, o del repositorio general.
+  2. Forkear o clonar el repositorio.
+  3. Abrir un Pull Request.
+  4. Comentar un poco tus cambios.
+  5. Esperar la respuesta del dueño del repositorio.
+
+Si tienes alguna duda o reporte, comentalo en el servidor oficial de [Adobly](https://adobly.github.io/discord).
+
 ### Cómo reportar errores
 Si quieres reportar algun error que hayas encontrado, te pedimos que te dirijas al servidor de [Adobly](https://adobly.github.io/discord), y en el canal de ayuda y dudas escribas tu problema, nosotros estaremos encantados en responderte.
 
